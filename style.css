@@ -96,5 +96,5 @@ footer {
     margin-top: 10px;
     width: 495px;   
     bottom: 295px;
-    position: absolute;
+    position: fixed;
 }
